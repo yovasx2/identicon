@@ -24,7 +24,7 @@
 
 This project is used to transform a string into an image (identicon) which is just a mirrored image with one color filled squares in a grid:
 
-![identicon](https://github.com/yovasx2/identicon/identicon.png)
+![identicon](https://github.com/yovasx2/identicon/blob/master/example.png)
 
 <a name="installation">
 
@@ -93,8 +93,7 @@ You can contribute to this project in many forms:
 
 1. Giovanni Alberto García
 
-    * <a href="mailto:delirable@gmail.com">
-    delirable@gmail.com</a>
+    * <a href="mailto:delirable@gmail.com">delirable@gmail.com</a>
 
     * [github.com/yovasx2](http://github.com/yovasx2)
 
