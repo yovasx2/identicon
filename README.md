@@ -28,7 +28,7 @@ This project is used to transform a string into an image (identicon) which is ju
 
 <a name="installation">
 
-## Installation
+### Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `identicon` to your list of dependencies in `mix.exs`:
@@ -57,15 +57,15 @@ In order to execute this project you need to install:
 
 1. Clone the repo
 
-      $ git clone https://github.com/yovasx2/identicon
+       $ git clone https://github.com/yovasx2/identicon
 
 2. Move into it and install dependencies
 
-    $ cd identicon
+       $ cd identicon
 
 3. Execute
 
-    $ mix run -e "Identicon.generate(<string>)"
+       $ mix run -e "Identicon.generate(<string>)"
 
 <a name="documentation"/>
 
